@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Os Bons Companheiros",
+        "sinopse": "Henry sonhou desde cedo com a entrada na vida de gângster. Ao crescer, ele mergulha num mundo de criminalidade, mas acaba se tornando alvo de agentes federais que não descansarão até implica-lo em algo.",
+        "ano": 1990,
+        "genero": ["Crime", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Goodfellas",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/93/46/41/20258439.jpg"
+    },
+    {
+        "nome": "Django Livre",
+        "sinopse": "Django é um escravo conhecido pelo histórico brutal com os seus ex-senhores. Isso o coloca diante do caçador de recompensas alemão, dr. King Schultz, que está a procura dos sanguinários irmãos Brittle, e Django é o único que pode levá-lo à sua recompensa. Mesmo com o objetivo alcançado, e a promessa cumprida, os dois permanecem juntos, caçando os criminosos mais perigosos dos EUA. Enquanto isso, Django está a procura de sua esposa, levada pelo tráfico de escravos.",
+        "ano": 2012,
+        "genero": ["Faroeste", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Django_Unchained",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/08/59/20366454.jpg"
+    },
+    {
+        "nome": "Peixe Grande e Suas Histórias Maravilhosas",
+        "sinopse": "Ed Bloom é um contador de histórias. Quando jovem, saiu de sua pequena cidade-natal para realizar uma volta ao mundo. A diversão predileta dele, quando velho, é narrar as aventuras que viveu neste período, mesclando realidade com fantasia. As histórias fascinam todos que as ouvem, com exceção de Will, seu filho. Até que Sandra, a mãe, tenta aproximar pai e filho, o que faz com que Ed enfim tenha que separar a ficção da realidade.",
+        "ano": 2003,
+        "genero": ["Fantasia", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Big_Fish",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/74/28/08/20066838.jpg"
+    },
+    {
+        "nome": "Pulp Fiction: Tempo de Violência",
+        "sinopse": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham para Marsellus Wallace. Vincent é forçado a sair com a garota do chefe, enquanto precisa lidar com uma série de incidentes que se interligam.",
+        "ano": 1994,
+        "genero": ["Crime", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Pulp_Fiction",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/Pulp_Fiction_cover.jpg/250px-Pulp_Fiction_cover.jpg"
+    },
+    {
+        "nome": "O Poderoso Chefão",
+        "sinopse": "Uma família mafiosa ítalo-americana luta para estabelecer sua supremacia nos Estados Unidos após a Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado, forçando seus filhos Michael e Sonny a assumirem os negócios da família.",
+        "ano": 1972,
+        "genero": ["Crime", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/The_Godfather",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg"
+    },
+    {
+        "nome": "Forrest Gump: O Contador de Histórias",
+        "sinopse": "Mesmo com o QI abaixo da média, Forrest Gump participa de momentos cruciais da história dos Estados Unidos, como a Guerra do Vietnã e o escândalo de Watergate, enquanto inspira pessoas com seu otimismo.",
+        "ano": 1994,
+        "genero": ["Comédia", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Forrest_Gump",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c0/ForrestGumpPoster.jpg/250px-ForrestGumpPoster.jpg"
+    },
+    {
+        "nome": "Um Sonho de Liberdade",
+        "sinopse": "Andy Dufresne é condenado a duas prisões perpétuas consecutivas pelas mortes de sua esposa e de seu amante. No entanto, só Andy sabe que não cometeu os crimes. Na prisão, durante dezenove anos, ele faz amizade com Red, sofre as brutalidades da vida na prisão e se adapta.",
+        "ano": 1994,
+        "genero": ["Drama"],
+        "link": "https://pt.wikipedia.org/wiki/The_Shawshank_Redemption",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d2/The_Shawshank_Redemption_p%C3%B4ster.png/250px-The_Shawshank_Redemption_p%C3%B4ster.png"
+    },
+    {
+        "nome": "Batman: O Cavaleiro das Trevas",
+        "sinopse": "Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na cidade de Gotham. Mas um jovem e anárquico criminoso conhecido como Coringa decide instaurar um verdadeiro caos na cidade.",
+        "ano": 2008,
+        "genero": ["Ação", "Crime"],
+        "link": "https://pt.wikipedia.org/wiki/The_Dark_Knight",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d1/The_Dark_Knight.jpg/250px-The_Dark_Knight.jpg"
+    },
+    {
+        "nome": "A Lista de Schindler",
+        "sinopse": "Oskar Schindler, um empresário alemão, usa sua influência para salvar mais de mil judeus do Holocausto, empregando-os em suas fábricas durante a Segunda Guerra Mundial.",
+        "ano": 1993,
+        "genero": ["Biografia", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Schindler%27s_List",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/SchindlerPoster.jpg/250px-SchindlerPoster.jpg"
+    },
+    {
+        "nome": "O Senhor dos Anéis: O Retorno do Rei",
+        "sinopse": "A jornada final de Frodo e Sam para destruir o Um Anel continua, enquanto Aragorn lidera as forças do bem contra o exército de Sauron em Minas Tirith.",
+        "ano": 2003,
+        "genero": ["Fantasia", "Aventura"],
+        "link": "https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/35/14/33/18366630.jpg"
+    },
+    {
+        "nome": "Clube da Luta",
+        "sinopse": "Um homem deprimido que sofre de insônia conhece um vendedor de sabão e juntos formam um clube de luta clandestino que evolui para algo muito, muito maior.",
+        "ano": 1999,
+        "genero": ["Drama", "Suspense"],
+        "link": "https://pt.wikipedia.org/wiki/Fight_Club",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/96/20122166.jpg"
+    },
+    {
+        "nome": "Matrix",
+        "sinopse": "Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade.",
+        "ano": 1999,
+        "genero": ["Ficção Científica", "Ação"],
+        "link": "https://pt.wikipedia.org/wiki/The_Matrix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c1/The_Matrix_Poster.jpg"
+    },
+    {
+        "nome": "A Origem",
+        "sinopse": "Dom Cobb é um ladrão com a rara habilidade de roubar informações do inconsciente, entrando nos sonhos das pessoas. Sua vida de fugitivo o tornou um pária internacional, mas uma última chance de redenção pode lhe dar sua vida de volta.",
+        "ano": 2010,
+        "genero": ["Ficção Científica", "Ação"],
+        "link": "https://pt.wikipedia.org/wiki/Inception",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/84/AOrigemPoster.jpg/250px-AOrigemPoster.jpg"
+    },
+    {
+        "nome": "O Silêncio dos Inocentes",
+        "sinopse": "Uma jovem agente do FBI é designada para encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura um perigoso psicopata, Hannibal Lecter, que está preso em um hospital psiquiátrico.",
+        "ano": 1991,
+        "genero": ["Suspense", "Crime"],
+        "link": "https://pt.wikipedia.org/wiki/O_Sil%C3%AAncio_dos_Inocentes",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0a/Silence_of_the_lambs.png"
+    },
+    {
+        "nome": "Cidade de Deus",
+        "sinopse": "Buscapé é um jovem pobre, negro e sensível, que cresce em um universo de muita violência. Ele vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos da cidade. Amedrontado com a possibilidade de se tornar um bandido, Buscapé é salvo de seu destino por seu talento como fotógrafo.",
+        "ano": 2002,
+        "genero": ["Crime", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Cidade_de_Deus_(filme)",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/CidadedeDeus.jpg/250px-CidadedeDeus.jpg"
+    },
+    {
+        "nome": "Interestelar",
+        "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receber a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos.",
+        "ano": 2014,
+        "genero": ["Ficção Científica", "Aventura"],
+        "link": "https://pt.wikipedia.org/wiki/Interstellar",
+        "imagem": "https://br.web.img3.acsta.net/pictures/14/10/31/20/39/476171.jpg"
+    },
+    {
+        "nome": "Parasita",
+        "sinopse": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa.",
+        "ano": 2019,
+        "genero": ["Suspense", "Comédia"],
+        "link": "https://pt.wikipedia.org/wiki/Gisaengchung",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Parasite_poster.jpg/250px-Parasite_poster.jpg"
+    },
+    {
+        "nome": "O Resgate do Soldado Ryan",
+        "sinopse": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, o caçula de quatro irmãos, dentre os quais três morreram em combate.",
+        "ano": 1998,
+        "genero": ["Guerra", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Saving_Private_Ryan",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/Saving_Private_Ryan_poster.jpg/250px-Saving_Private_Ryan_poster.jpg"
+    },
+    {
+        "nome": "A Viagem de Chihiro",
+        "sinopse": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Ao anoitecer, eles se transformam em porcos. Agora, ela terá que viver em um mundo de deuses e monstros para tentar reverter o feitiço.",
+        "ano": 2001,
+        "genero": ["Animação", "Fantasia"],
+        "link": "https://pt.wikipedia.org/wiki/Sen_to_Chihiro_no_Kamikakushi",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/3b/A_Viagem_de_Chihiro.JPG/250px-A_Viagem_de_Chihiro.JPG"
+    },
+    {
+        "nome": "Gladiador",
+        "sinopse": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao manifestar seu desejo de que o general Maximus seja seu sucessor. Com inveja, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder como um escravo e gladiador.",
+        "ano": 2000,
+        "genero": ["Ação", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/Gladiator_(filme)",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/44/GladiadorPoster.jpg/250px-GladiadorPoster.jpg"
+    },
+    {
+        "nome": "O Grande Truque",
+        "sinopse": "No século XIX, em Londres, Robert Angier e Alfred Borden se conhecem há muitos anos, desde que eram mágicos iniciantes. Desde então, eles vivem competindo entre si, o que faz com que a amizade com o passar dos anos se transforme em uma grande rivalidade. Quando Alfred apresenta uma mágica revolucionária, Robert fica obcecado em descobrir como ele consegue realizá-la.",
+        "ano": 2006,
+        "genero": ["Suspense", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/The_Prestige_(filme)",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8c/The_Prestige.jpg/250px-The_Prestige.jpg"
+    },
+    {
+        "nome": "O Iluminado",
+        "sinopse": "Jack Torrance se torna o zelador de inverno do isolado Hotel Overlook, nas montanhas do Colorado, na esperança de curar seu bloqueio de escritor. Ele se instala com a esposa, Wendy, e o filho, Danny, que é atormentado por premonições psíquicas. A escrita de Jack não flui e a presença sinistra do hotel o influencia, colocando sua família em perigo.",
+        "ano": 1980,
+        "genero": ["Terror", "Drama"],
+        "link": "https://pt.wikipedia.org/wiki/The_Shining_(filme)",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Shining.png/250px-Shining.png"
+    },
+    {
+        "nome": "De Volta para o Futuro",
+        "sinopse": "O adolescente Marty McFly é transportado para 1955 em uma máquina do tempo DeLorean inventada por seu amigo, o cientista excêntrico Doc Brown. Ele precisa garantir que seus pais se apaixonem para que ele possa voltar ao futuro.",
+        "ano": 1985,
+        "genero": ["Ficção Científica", "Comédia"],
+        "link": "https://pt.wikipedia.org/wiki/Back_to_the_Future",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/97/BackFuturePoster.jpg/250px-BackFuturePoster.jpg"
+    },
+    {
+        "nome": "Psicose",
+        "sinopse": "Uma secretária de Phoenix rouba 40 mil dólares de um cliente de seu empregador, foge e se hospeda em um motel remoto administrado por um jovem sob o domínio de sua mãe.",
+        "ano": 1960,
+        "genero": ["Terror", "Suspense"],
+        "link": "https://pt.wikipedia.org/wiki/Psycho_(1960)",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/250px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg"
+    },
+    {
+        "nome": "O Pianista",
+        "sinopse": "Um músico judeu polonês luta para sobreviver à destruição do gueto de Varsóvia na Segunda Guerra Mundial.",
+        "ano": 2002,
+        "genero": ["Biografia", "Guerra"],
+        "link": "https://pt.wikipedia.org/wiki/The_Pianist_(filme)",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0d/ThePianistPoster.jpg"
+    }
+]

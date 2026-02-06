@@ -1,0 +1,35 @@
+<!DOCTYPE html> <!-- Define o tipo de documento como HTML5 -->
+<html lang="pt-br"> <!-- Define o idioma principal da página como Português do Brasil -->
+<head>
+    <meta charset="UTF-8"> <!-- Define o conjunto de caracteres como UTF-8, para suportar acentos e símbolos -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Garante que a página seja responsiva em dispositivos móveis -->
+    <link rel="stylesheet" href="style.css"> <!-- Importa a folha de estilos CSS externa -->
+    <title>Hall de filmes</title> <!-- Define o título que aparece na aba do navegador -->
+</head>
+<body>
+    <header> <!-- Seção do cabeçalho, geralmente contém o logo, título e navegação -->
+        <div class="logo-container"> <!-- Container para o logo e o título, para alinhá-los juntos -->
+            <svg class="logo-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-film"><rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line></svg>
+            <h1>Hall de Filmes</h1>
+        </div>
+        <div> <!-- Container para os elementos de busca -->
+            <input  id="campo-busca" type="text" placeholder="Digite um filme"> <!-- Campo de texto para o usuário digitar a busca. O 'id' é usado pelo JavaScript para pegar o valor digitado. -->
+            <button id="botao-busca" onclick="escolherFilme()">Procurar</button> <!-- Botão que, ao ser clicado, chama a função 'escolherFilme' do JavaScript. -->
+        </div>
+    </header>
+
+    <main id="container-principal"> <!-- Conteúdo principal da página -->
+        <div class="filtros-container"></div> <!-- Container onde os botões de filtro de gênero serão inseridos pelo JavaScript -->
+        <section class="card-container"> <!-- Seção onde os cards dos filmes serão renderizados pelo JavaScript -->
+        </section>
+    </main>
+
+    <footer class="footer"> <!-- Seção do rodapé da página -->
+        <ul class="footer-links"> <!-- Lista não ordenada para os links do rodapé -->
+            <li><a href="https://www.aicinema.com.br/historia-do-cinema-da-sua-origem-aos-dias-de-hoje/" target="_blank">História do cinema</a></li>
+            <li><a href="https://www.cnnbrasil.com.br/entretenimento/veja-quais-foram-os-filmes-mais-premiados-na-historia-do-oscar/" target="_blank">Filmes com mais oscars na história</a></li>
+        </ul>
+    </footer>
+    <script src="script.js"></script> <!-- Importa o arquivo JavaScript que contém a lógica da página -->
+</body>
+</html>
