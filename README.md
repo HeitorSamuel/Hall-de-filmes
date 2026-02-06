@@ -1,4 +1,5 @@
 Hall de Filmes
+
 O Hall de Filmes é uma aplicação web interativa e elegante, desenvolvida como uma galeria digital para explorar obras-primas do cinema. A interface permite que os usuários descubram e aprendam mais sobre filmes aclamados de forma rápida e intuitiva.
 
 Este projeto foi criado como parte da Imersão Dev da Alura.
